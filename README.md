@@ -29,3 +29,4 @@ Preview the prototype.
 ![output](./static/img/16.png)
 
 ## RESULT:
+Thus a uxdesign website is designed and wireframe for a product development of companywebsite.
