@@ -17,12 +17,15 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./img/11.png)
+![output](./img/12.png)
+![output](./img/13.png)
+![output](./img/14.png)
 
 ## WIREFRAME:
-
+![output](./img/15.png)
 
 ## PROTOTYPE:
-
+![output](./img/16.png)
 
 ## RESULT:
